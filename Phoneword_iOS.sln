@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneword_iOS", "Phoneword_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneword_iOS.UITests", "UITests\Phoneword_iOS.UITests.csproj", "{7E95B540-619B-4B99-A1C1-73AC10261436}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE79AEE1-53E4-4A2E-A4E7-1F6D937A4ECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -67,5 +69,7 @@ Global
 		{C2F929D7-DAA1-4188-B95D-EE11B18BB4A9}.Release|iPhone.Build.0 = Release|Any CPU
 		{C2F929D7-DAA1-4188-B95D-EE11B18BB4A9}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{C2F929D7-DAA1-4188-B95D-EE11B18BB4A9}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal

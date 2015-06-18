@@ -93,6 +93,12 @@
     <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-568h%402x.png" />
     <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-Portrait.png" />
     <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-Portrait%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-57.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-114.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-29.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-58.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-80.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-120.png" />
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="Resources\ITunesArtwork" />
